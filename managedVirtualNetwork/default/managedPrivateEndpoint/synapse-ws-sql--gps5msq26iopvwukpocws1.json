@@ -1,0 +1,10 @@
+{
+	"name": "synapse-ws-sql--gps5msq26iopvwukpocws1",
+	"properties": {
+		"privateLinkResourceId": "/subscriptions/b4699526-3c42-4562-8674-3a7078336e04/resourceGroups/SynapseDemos/providers/Microsoft.Synapse/workspaces/gps5msq26iopvwukpocws1",
+		"groupId": "sql",
+		"fqdns": [
+			"gps5msq26iopvwukpocws1.580e0114-dcc2-468d-b7d0-4715e81efd6d.sql.azuresynapse.net"
+		]
+	}
+}
